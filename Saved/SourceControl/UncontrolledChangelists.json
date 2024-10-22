@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/development/__rnd__/LANNetworkedGame/Content/Maps/LoginMap.umap",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/Widgets/WBP_LogIn.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/BP_GameMode.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/Widgets/WBP_SessionButton.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/Interfaces/IBP_PlayerController.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Maps/GameMap.umap",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/GMBP_Login.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/GameModes/GMBP_Login.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/PlayerControllers/BP_PlayerController.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/PlayerControllers/PCBP_Login.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/Interfaces/IBP_LoginWidget.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/VehicleTemplate/Blueprints/BP_AssetGuideline_Chaos.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/GameModes/GMBP_Game.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/Pawns/TPCBP_Pawn.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/Pawns/SCBP_Pawn.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/BP_Credentials.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/GameModes/BP_GameMode.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/Pawns/BP_Pawn.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/Pawns/BP_Character.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/BP_PlayerController.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/Widgets/WBP_ServerButton.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/BP_PlayerState.uasset",
+				"C:/development/__rnd__/LANNetworkedGame/Content/Blueprints/PCBP_Login.uasset"
+			]
+		}
+	]
+}
